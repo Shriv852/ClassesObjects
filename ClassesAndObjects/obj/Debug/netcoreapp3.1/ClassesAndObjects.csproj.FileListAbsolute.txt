@@ -1,0 +1,13 @@
+C:\Users\shriv\source\repos\ClassesAndObjects\ClassesAndObjects\bin\Debug\netcoreapp3.1\ClassesAndObjects.exe
+C:\Users\shriv\source\repos\ClassesAndObjects\ClassesAndObjects\bin\Debug\netcoreapp3.1\ClassesAndObjects.deps.json
+C:\Users\shriv\source\repos\ClassesAndObjects\ClassesAndObjects\bin\Debug\netcoreapp3.1\ClassesAndObjects.runtimeconfig.json
+C:\Users\shriv\source\repos\ClassesAndObjects\ClassesAndObjects\bin\Debug\netcoreapp3.1\ClassesAndObjects.runtimeconfig.dev.json
+C:\Users\shriv\source\repos\ClassesAndObjects\ClassesAndObjects\bin\Debug\netcoreapp3.1\ClassesAndObjects.dll
+C:\Users\shriv\source\repos\ClassesAndObjects\ClassesAndObjects\bin\Debug\netcoreapp3.1\ClassesAndObjects.pdb
+C:\Users\shriv\source\repos\ClassesAndObjects\ClassesAndObjects\obj\Debug\netcoreapp3.1\ClassesAndObjects.csprojAssemblyReference.cache
+C:\Users\shriv\source\repos\ClassesAndObjects\ClassesAndObjects\obj\Debug\netcoreapp3.1\ClassesAndObjects.AssemblyInfoInputs.cache
+C:\Users\shriv\source\repos\ClassesAndObjects\ClassesAndObjects\obj\Debug\netcoreapp3.1\ClassesAndObjects.AssemblyInfo.cs
+C:\Users\shriv\source\repos\ClassesAndObjects\ClassesAndObjects\obj\Debug\netcoreapp3.1\ClassesAndObjects.csproj.CoreCompileInputs.cache
+C:\Users\shriv\source\repos\ClassesAndObjects\ClassesAndObjects\obj\Debug\netcoreapp3.1\ClassesAndObjects.dll
+C:\Users\shriv\source\repos\ClassesAndObjects\ClassesAndObjects\obj\Debug\netcoreapp3.1\ClassesAndObjects.pdb
+C:\Users\shriv\source\repos\ClassesAndObjects\ClassesAndObjects\obj\Debug\netcoreapp3.1\ClassesAndObjects.genruntimeconfig.cache
